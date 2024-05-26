@@ -7,7 +7,6 @@
   
 </div>
 
-
 <br />
 
 ### Demo Screeshots 🖼️
@@ -27,26 +26,21 @@
 * Host & Domain
 
 
-Before you begin, ensure you have met the following requirements:
-
-* <b>Windows</b> :  [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-* <b>Linux and macOS</b> :  apt-get install git
-
 ### Run Server
 
-To run **coming-soon** locally, run this command on your git bash:
-
-Linux 🐧 and macOS 🍏:
+Go to Cpanel 🐧:
 
 ```bash
-sudo git clone https://github.com/cymilad/milemusic-bot.git
+1 - select Manage My Databases
+2 - Create New Database
+3 - Database Users and Add New User/Password
+4 - Add User To Database
+5 - Then Back Go to PHPMyAdmin select Database
+6 - import music.sql
+7 - Edit config.php
+8 - Run Bot
 ```
 
-Windows 🪟:
-
-```bash
-git clone https://github.com/cymilad/milemusic-bot.git
-```
 
 ### Contact 💬 
 Telegram : <a href="https://t.me/cymilad" target="_blank"><strong>cymilad</strong></a> <br>
