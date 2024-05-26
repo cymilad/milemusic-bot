@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Search and Find music in channel telegram</h2>
   
-  This Bot Telegram <br/> Built PHP
+  This Bot Telegram Built PHP
   
   <a href="#" target="_blank"><strong>➥ Live Demo</strong></a>
   
