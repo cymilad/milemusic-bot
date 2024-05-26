@@ -13,7 +13,9 @@
 ### Demo Screeshots 🖼️
 
 ![Desktop Demo](./screenshots/Screenshot-1.png)
+<br />
 ![Desktop Demo](./screenshots/Screenshot-2.png)
+<br />
 ![Desktop Demo](./screenshots/Screenshot-3.png)
 
 ### Prerequisites
